@@ -1,0 +1,16 @@
+.tableRunners {
+	text-align: center;
+}
+
+.tableRunners table {
+	margin: 0 auto;
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+
+.tableRunners table td,
+th {
+	border: 1px solid black;
+	width: auto;
+	padding: 10px;
+}
