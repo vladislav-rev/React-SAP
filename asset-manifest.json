@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-SAP/static/css/main.afc234d6.chunk.css",
+    "main.js": "/React-SAP/static/js/main.dbdac756.chunk.js",
+    "main.js.map": "/React-SAP/static/js/main.dbdac756.chunk.js.map",
+    "runtime-main.js": "/React-SAP/static/js/runtime-main.765978c5.js",
+    "runtime-main.js.map": "/React-SAP/static/js/runtime-main.765978c5.js.map",
+    "static/js/2.fb115b5f.chunk.js": "/React-SAP/static/js/2.fb115b5f.chunk.js",
+    "static/js/2.fb115b5f.chunk.js.map": "/React-SAP/static/js/2.fb115b5f.chunk.js.map",
+    "index.html": "/React-SAP/index.html",
+    "precache-manifest.12886163a7efd3ac5d667424ec97653e.js": "/React-SAP/precache-manifest.12886163a7efd3ac5d667424ec97653e.js",
+    "service-worker.js": "/React-SAP/service-worker.js",
+    "static/css/main.afc234d6.chunk.css.map": "/React-SAP/static/css/main.afc234d6.chunk.css.map",
+    "static/js/2.fb115b5f.chunk.js.LICENSE.txt": "/React-SAP/static/js/2.fb115b5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.765978c5.js",
+    "static/js/2.fb115b5f.chunk.js",
+    "static/css/main.afc234d6.chunk.css",
+    "static/js/main.dbdac756.chunk.js"
+  ]
+}
